@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">a14albertoab_Proxecto</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_alumno">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="historia">A historia do noso IES remóntase ao ano 1948,
+        cando unha viúva compostelá doa uns terreos situados no campo de San Clemente á
+        Igrexa, coa finalidade de que neles se construíse un centro para acoller os nenos pobres da cidade
+        e proporcionarlles uns coñecementos profesionais que lles permitisen no futuro desempeñar un oficio.
+        A doazón realizouse por motivos píos e a Igrexa tutelou o desenvolvemento das obras de edificación a través de D.
+        Fernando Quiroga Palacios. \r\n
+        Aínda que o edificio puido estar rematado antes, as súas actividades non comezaron ata o ano 1953 que, curiosamente,
+        coincide tamén co momento en que o Papa Pío XII designa cardeal a Don Fernando Quiroga Palacios.\n
+        A historia vén demostrar que o centro sempre estivo vinculado a ensinanzas profesionais: foi escola de traballo, escola
+        de artes, escola de mestría industrial, centro de formación profesional…; non foi ata a última década do século XX cando,
+        coa reforma educativa formulada na LOXSE, pasou a denominarse IES e, xa no século XXI, se introduciron as ensinanzas non estritamente
+        profesionais.\r\n
+        O edificio forma parte, estrutural e arquitectonicamente, do conxunto histórico da cidade. Está distribuído en tres plantas e un soto;
+        posúe seis aulas de informática, cinco aulas para ESA e BAC (adultos), unha sala de usos múltiples (vídeo, conferencias, etc.), un laboratorio,
+        unha biblioteca e outras dependencias dedicadas á administración e servizos.\r\n
+        O centro sempre foi de titularidade pública e, polo tanto, depende da Consellería de Educación e Ordenación Universitaria da Xunta de Galicia.
+    </string>
+</resources>

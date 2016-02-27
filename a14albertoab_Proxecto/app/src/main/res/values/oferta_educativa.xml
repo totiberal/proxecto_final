@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oferta">
+        <item>DAM</item>
+        <item>SMR</item>
+        <item>ASIR</item>
+        <item>DAW</item>
+        <item>ASIR MODULAR</item>
+    </string-array>
+</resources>
